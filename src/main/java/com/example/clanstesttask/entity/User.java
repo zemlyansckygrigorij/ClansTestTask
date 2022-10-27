@@ -1,4 +1,5 @@
 package com.example.clanstesttask.entity;
+
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
